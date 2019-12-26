@@ -1,5 +1,5 @@
 # home-newrelic-network
-Monitoring performance of my Home network
+My home network performance monitoring service running on RaspberryPi
 
 # Example
 ```
